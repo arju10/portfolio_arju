@@ -33,7 +33,7 @@ export const projects: Project[] = [
       "JWT",
       "RBAC",
     ],
-    images: ["public/images/full_stack/sports_facility/landing_page.png"],
+    images: ["/images/full_stack/sports_facility/landing_page.png"],
     demoUrl: "https://sports-facility-booking-frontend-five.vercel.app/",
     githubUrl:
       "https://github.com/arju10/Sports-Facility-Booking-Platform-Backend",
@@ -65,7 +65,7 @@ export const projects: Project[] = [
       "Docker",
       "Vercel",
     ],
-    images: ["public/images/full_stack/smart_finance_ai/dashboard.png"],
+    images: ["/images/full_stack/smart_finance_ai/dashboard.png"],
     demoUrl: "https://smart-finance-ai-tau.vercel.app/",
     githubUrl: "https://github.com/arju10/smart-finance-ai",
   },
@@ -95,7 +95,7 @@ export const projects: Project[] = [
       "Vercel",
     ],
     images: [
-      "public/images/full_stack/Career-Launchpad-AI/interview_preparation_after_taking_exam.png",
+      "/images/full_stack/Career-Launchpad-AI/interview_preparation_after_taking_exam.png",
     ],
     demoUrl: "https://career-launchpad-ai.vercel.app/",
     githubUrl: "https://github.com/arju10/Career-Launchpad-AI",
@@ -124,7 +124,7 @@ export const projects: Project[] = [
       "Plotly",
     ],
     images: [
-      "public/images/ai_ml/butterfly_species_classifier/main_interface.png",
+      "/images/ai_ml/butterfly_species_classifier/main_interface.png",
     ],
     demoUrl: "https://butterfly-species-classifier.streamlit.app/",
     githubUrl: "https://github.com/arju10/butterfly-species-classifier",
@@ -153,7 +153,7 @@ export const projects: Project[] = [
       "Docker",
     ],
     images: [
-      "public/images/ai_ml/bangla-agricultural-advisor-chatbot/interface.png",
+      "/images/ai_ml/bangla-agricultural-advisor-chatbot/interface.png",
     ],
     demoUrl: "https://bangla-agricultural-advisor-chatbot.vercel.app/",
     githubUrl:
