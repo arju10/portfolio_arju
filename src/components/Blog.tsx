@@ -37,7 +37,8 @@ const blogPosts = [
 const Blog = () => {
   return (
     <section id="blog" className="py-20 px-4">
-      <div className="max-w-6xl mx-auto">
+      <h1 className="text-3xl font-bold text-center">Coming Soon .......</h1>
+      {/* <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-primary bg-clip-text text-transparent">
             Latest Blog Posts
@@ -104,7 +105,7 @@ const Blog = () => {
             </Card>
           ))}
         </div>
-      </div>
+      </div> */}
     </section>
   );
 };
